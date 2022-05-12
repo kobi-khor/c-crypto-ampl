@@ -1,20 +1,20 @@
 {
-  "index.html": {
-    "file": "assets/index.31f935fc.js",
-    "src": "index.html",
+  "src/main.jsx": {
+    "file": "assets/main.ce3c55cf.js",
+    "src": "src/main.jsx",
     "isEntry": true,
     "imports": [
-      "_vendor.54051496.js"
+      "_vendor.5c66c84a.js"
     ],
     "css": [
-      "assets/index.6f739b57.css"
+      "assets/main.7256ff66.css"
     ],
     "assets": [
       "assets/cryptocurrency.d164cef1.png",
       "assets/google.5101865e.png"
     ]
   },
-  "_vendor.54051496.js": {
-    "file": "assets/vendor.54051496.js"
+  "_vendor.5c66c84a.js": {
+    "file": "assets/vendor.5c66c84a.js"
   }
 }
